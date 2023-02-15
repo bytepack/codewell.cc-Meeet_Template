@@ -27,5 +27,6 @@ If you want more real-time communication, you can visit our community on [Slack]
 ### Fonts Used
 
 https://www.cdnfonts.com/inter.font
+
 https://www.cdnfonts.com/sen.font
 
